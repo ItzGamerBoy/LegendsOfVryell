@@ -6,12 +6,12 @@ A role-playing game (RPG) is a game in which each participant assumes the role o
 
 ## Troubleshooting and FAQ
 
-If any bugs or unexpected error please CONTACT us.
+If any bugs or unexpected error please CONTACT us and click the option contact info in game.
 
-## Contact Information
+(GAME LINK GIVEN AT THE LAST LINE)
 
-For support questions or bugs, mailto: aneeshpanda16@gmail.com
 
 ## Additional Resources
 
 - [Game Link] (https://itzgamerboy.github.io/LegendsOfZelda/)
+- Youtube Link (https://www.youtube.com/@itz_gamerboy29)
